@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="cucumber.Options.TestRunner1" time="1.046" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\KeshavKant\Desktop\selenium1\java11Project\CucumberDemo\target\test-classes;C:\Users\KeshavKant\Desktop\selenium1\java11Project\CucumberDemo\target\classes;C:\Users\KeshavKant\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\KeshavKant\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-java\4.8.0\cucumber-java-4.8.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-core\4.8.0\cucumber-core-4.8.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\gherkin\5.1.0\gherkin-5.1.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\tag-expressions\1.1.1\tag-expressions-1.1.1.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-expressions\7.0.2\cucumber-expressions-7.0.2.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\datatable\1.1.14\datatable-1.1.14.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\datatable-dependencies\1.1.14\datatable-dependencies-1.1.14.jar;C:\Users\KeshavKant\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-junit\4.8.0\cucumber-junit-4.8.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\jdk-11.0.6_windows-x64_bin\jdk-11.0.6\bin"/>
+    <property name="sun.java.command" value="C:\Users\KESHAV~1\AppData\Local\Temp\surefire10419434744966767353\surefirebooter8198581637571081701.jar C:\Users\KeshavKant\AppData\Local\Temp\surefire10419434744966767353 2020-05-22T15-08-42_132-jvmRun1 surefire11142170665449830075tmp surefire_017823330843286086407tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\KeshavKant\Desktop\selenium1\java11Project\CucumberDemo\target\test-classes;C:\Users\KeshavKant\Desktop\selenium1\java11Project\CucumberDemo\target\classes;C:\Users\KeshavKant\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\KeshavKant\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-java\4.8.0\cucumber-java-4.8.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-core\4.8.0\cucumber-core-4.8.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\gherkin\5.1.0\gherkin-5.1.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\tag-expressions\1.1.1\tag-expressions-1.1.1.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-expressions\7.0.2\cucumber-expressions-7.0.2.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\datatable\1.1.14\datatable-1.1.14.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\datatable-dependencies\1.1.14\datatable-dependencies-1.1.14.jar;C:\Users\KeshavKant\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\KeshavKant\.m2\repository\io\cucumber\cucumber-junit\4.8.0\cucumber-junit-4.8.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\KeshavKant"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="C:\Program Files\jdk-11.0.6_windows-x64_bin\jdk-11.0.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\KeshavKant\Desktop\selenium1\java11Project\CucumberDemo"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\KESHAV~1\AppData\Local\Temp\surefire10419434744966767353\surefirebooter8198581637571081701.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.6+8-LTS"/>
+    <property name="user.name" value="KeshavKant"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\KeshavKant\.m2\repository"/>
+    <property name="cucumber.options" value="--tags ~@Sanity --tags ~@Regression"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\KESHAV~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.6"/>
+    <property name="user.dir" value="C:\Users\KeshavKant\Desktop\selenium1\java11Project\CucumberDemo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\jdk-11.0.6_windows-x64_bin\jdk-11.0.6\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\KeshavKant\Downloads\geckodriver-v0.24.0-win64;C:\Users\KeshavKant\Desktop\cucumber\apache-maven-3.6.2-bin\apache-maven-3.6.2;C:\Program Files\jdk-11.0.6_windows-x64_bin\jdk-11.0.6\bin;C:\Users\KeshavKant\Desktop\cucumber\apache-maven-3.6.2-bin\apache-maven-3.6.2\bin;C:\Program Files\Git\cmd;C:\Users\KeshavKant\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\KeshavKant\AppData\Local\Programs\Python\Python37\;C:\Users\KeshavKant\AppData\Local\Android\sdk-tools-windows-4333796\platform-tools;C:\Users\KeshavKant\AppData\Local\Android\sdk-tools-windows-4333796\tools\bin;C:\Users\KeshavKant\AppData\Local\Android\sdk-tools-windows-4333796\tools;C:\Users\KeshavKant\AppData\Local\Android\sdk-tools-windows-4333796\platform-tools;C:\Program Files\nodejs\;C:\Program Files (x86)\PuTTY\;C:\Users\KeshavKant\AppData\Local\Microsoft\WindowsApps;C:\Users\KeshavKant\AppData\Local\Microsoft\WindowsApps;C:\Users\KeshavKant\AppData\Local\Programs\Python\Python37\;C:\Users\KeshavKant\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\KeshavKant\AppData\Roaming\npm;C:\Users\KeshavKant\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.6+8-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="Sample1 Test" classname="sample Project" time="0.136"/>
+  <testcase name="Sample2 Test" classname="sample Project" time="0.081"/>
+  <testcase name="Sample Test5" classname="sample Project5" time="0.069"/>
+  <testcase name="Sample Test9" classname="sample Project9" time="0.036"/>
+</testsuite>
